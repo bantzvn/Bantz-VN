@@ -2,8 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 56: expected 'comma or end of line' not found.
-    $ renpy.pause(0.0166);
-    ^
+File "game/lithuania_start.rpy", line 52: choice menuitem expects a non-empty block.
+    ":DDDDDDDDDDDDD":
+                     ^
 
 Ren'Py Version: Ren'Py 6.99.8.959
