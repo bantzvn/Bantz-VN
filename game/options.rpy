@@ -1,4 +1,4 @@
-﻿## This file contains some of the options that can be changed to customize
+## This file contains some of the options that can be changed to customize
 ## your Ren'Py game. It only contains the most common options... there
 ## is quite a bit more customization you can do.
 ##
@@ -186,6 +186,7 @@ init -1 python hide:
     # config.sample_sound = "click.wav"
 
     ## Music that is played while the user is at the main menu.
+    config.main_menu_music = "Finnsong.mp3"
 
     # config.main_menu_music = "main_menu_theme.ogg"
 
